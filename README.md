@@ -1,4 +1,4 @@
-# Sapam-Machine-Learning
+# Spam-Machine-Learning
 
 In this project, I utilized machine learning techniques to classify emails as either spam or not spam. The project involved several stages of data preprocessing, model training, and performance evaluation.
 
